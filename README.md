@@ -7,6 +7,6 @@ This is a Torchvision implementation for Instance Segmentation.
 
 ## Run
 ```
-python maskrcnn.py
+python mask_rcnn.py
 ```
 We set the confidence threshold to 0.7.
