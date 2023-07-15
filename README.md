@@ -1,4 +1,4 @@
-# Instance Segmentation with Mask R-CNN
+# Instance Segmentation Using Mask R-CNN
 
 ## Introduction
 This is a Torchvision implementation for Instance Segmentation.
